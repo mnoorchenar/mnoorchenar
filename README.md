@@ -3,39 +3,70 @@
 
 # 👋 Hi, I'm Mohammad Noorchenarboo
 
-🎯 **Biostatistician | Data Scientist | AI Researcher**  
-📍 Ontario, Canada | ✉️ mnoorchenarboo@gmail.com
+🎯 **Biostatistician | Senior Data Scientist | AI Researcher**  
+🔬 Focused on advancing healthcare with AI, data science, and statistical genetics.
 
 ## 🧠 About Me
 
-I'm a **Biostatistician** and **Senior Data Scientist** with a focus on:
+I am a Medical Statistician and Data Scientist specializing in the application of **machine learning**, **statistical modeling**, and **bioinformatics** to healthcare and genomics.  
+I combine **deep expertise in biostatistics** with **advanced computational techniques** to drive research and real-world evidence (RWE) solutions.
 
-- Predictive modeling, statistical genetics, clinical trials
-- Machine learning, deep learning, and explainable AI
-- Data-driven healthcare innovation and genomics research
-
-## 🛠️ Skills & Tools
-
-- **Languages**: R, Python, SQL, MATLAB
-- **Statistical Analysis**: SPSS, MINITAB, STATA
-- **AI/ML**: Deep Learning, NLP, Explainable AI
-- **Web & Tools**: HTML/CSS, GitHub, Docker, LaTeX, Linux
-
-## 📚 Highlights
-
-- **Biostatistical Research Scientist** at *Western University*
-- **Professor** at *Fanshawe College* (AI & Deep Learning courses)
-- Multiple **peer-reviewed publications**  
-  [🔗 See my Google Scholar](https://scholar.google.com/citations?user=nn_Toq0AAAAJ&hl=en)
-
-- **Invited Speaker** at Google Events 2025 (Generative AI in Healthcare)
+With a strong foundation in **predictive modeling**, **GWAS**, **clinical trial analysis**, and **explainable AI**, I aim to bridge the gap between medical research and intelligent data-driven insights.
 
 
-## 📫 Connect with Me
+## 📚 Experience Highlights
+
+- **Biostatistical Research Scientist** | *Western University*  
+  Developing deep learning models for surgical planning and decision support using real-world data (RWD).
+
+- **Professor** | *Fanshawe College*  
+  Teaching statistical foundations of AI, deep learning, and optimization algorithms.
+
+- **Statistical Geneticist & Biostatistician** | *EMRI*  
+  Led quality control pipelines for genome-wide association studies (GWAS) and built machine learning apps for genomics.
+
+- **Senior Statistical Analyst** | *Moshaveran Research Institute*  
+  Designed experimental studies and applied Bayesian methods for clinical research.
+
+- **Statistical Programmer** | *Royan Stem Cell Technology Institute*  
+  Built statistical programs for rare disease datasets and biomedical analysis.
+
+---
+
+## 🛠️ Skills
+
+- **Programming**: R, Python, SQL, MATLAB
+- **Statistical Analysis**: SPSS, STATA, MINITAB
+- **AI & ML**: Deep Learning, Explainable AI, NLP, Generative AI
+- **Bioinformatics**: GWAS, genomic data processing (PLINK, GCTA, BOLT, SAIGE)
+- **Tools**: GitHub, Docker, Linux (Ubuntu), Shiny Apps
+
+
+## 🌟 Expertise Areas
+
+- Clinical Trials Design & Analysis
+- Survival and Longitudinal Data Modeling
+- Statistical Genetics and Genomics
+- AI in Healthcare
+- Real-World Evidence (RWE) Analytics
+- Data Visualization and Web Applications
+
+
+## 📄 Selected Publications
+
+- **Optimizing Surgical Efficiency** — *Surgical Endoscopy (Accepted)*
+- **COVID-19 Mortality Analysis** — *Journal of Biostatistics and Epidemiology (2020)*
+- **Multivariate Association Testing in Sarcopenia** — *Journal of Biostatistics and Epidemiology (2022)*
+- **Metabolomics and ASCVD Risk Prediction** — *Frontiers in Cardiovascular Medicine (2023)*
+
+🔗 [See full publication list on Google Scholar](https://scholar.google.com/citations?user=nn_Toq0AAAAJ&hl=en)
+
+
+## 🔗 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mnoorchenar)
-- ✉️ mnoorchenarboo@gmail.com
+- [Google Scholar](https://scholar.google.com/citations?user=nn_Toq0AAAAJ&hl=en)
 
+---
 
-> "Combining biostatistics and AI to advance healthcare through data and discovery."
-
+> "Blending biostatistics, artificial intelligence, and data science to advance healthcare innovation."
