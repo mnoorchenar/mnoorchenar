@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/6a1fac05-ea31-4e20-8d06-67e8a2b7190a)
+![git-profile](https://github.com/user-attachments/assets/bf08ee77-668b-4bb9-8d1e-0b62fe9128a6)
+
 
 # 👋 Hi, I'm Mohammad Noorchenarboo
 
