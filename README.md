@@ -6,8 +6,6 @@
 🎯 **Biostatistician | Senior Data Scientist | AI Researcher**  
 🔬 Focused on advancing healthcare with AI, data science, and statistical genetics.
 
-## 🧠 About Me
-
 I am a Medical Statistician and Data Scientist specializing in the application of **machine learning**, **statistical modeling**, and **bioinformatics** to healthcare and genomics.  
 I combine **deep expertise in biostatistics** with **advanced computational techniques** to drive research and real-world evidence (RWE) solutions.
 
