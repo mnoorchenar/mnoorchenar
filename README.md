@@ -18,7 +18,7 @@ With a strong foundation in **predictive modeling**, **GWAS**, **clinical trial 
 - 🧠 Biostatistical Research Scientist at **Western University** (2023–present) – Deep learning & real-world data for surgical planning.
 - 👨‍🏫 Teaching Assistant at **Western & Other Universities** (2016–present) – Courses in statistics, software engineering, and AI.
 - 🎤 Invited **Speaker at Google Events** (2025) – Presented on Generative AI in healthcare.
-- 🏆 Recipient of the **Danny Ho Software Engineering Scholarship** ($10,000) – For academic excellence at Western.
+- 🏆 Recipient of the **Danny Ho Software Engineering Scholarship** – For academic excellence at Western.
 - 🧬 Statistical Geneticist & Biostatistician at **EMRI** (2020–2022) – GWAS, Shiny apps, and genomic machine learning.
 - 📊 Senior Statistical Analyst at **Moshaveran Research Institute** (2014–2018) – Bayesian methods and clinical trial support.
 - 🧾 Statistical Programmer at **Royan Stem Cell Institute** (2013–2014) – Biomedical data analysis and visualization.
