@@ -31,7 +31,6 @@ With a strong foundation in **predictive modeling**, **GWAS**, **clinical trial 
 - **Statistical Programmer** | *Royan Stem Cell Technology Institute*  
   Built statistical programs for rare disease datasets and biomedical analysis.
 
----
 
 ## 🛠️ Skills
 
@@ -66,7 +65,3 @@ With a strong foundation in **predictive modeling**, **GWAS**, **clinical trial 
 
 - [LinkedIn](https://www.linkedin.com/in/mnoorchenar)
 - [Google Scholar](https://scholar.google.com/citations?user=nn_Toq0AAAAJ&hl=en)
-
----
-
-> "Blending biostatistics, artificial intelligence, and data science to advance healthcare innovation."
