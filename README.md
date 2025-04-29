@@ -6,8 +6,6 @@
 🎯 **Biostatistician | Data Scientist | AI Researcher**  
 📍 Ontario, Canada | ✉️ mnoorchenarboo@gmail.com
 
----
-
 ## 🧠 About Me
 
 I'm a **Biostatistician** and **Senior Data Scientist** with a focus on:
@@ -16,16 +14,12 @@ I'm a **Biostatistician** and **Senior Data Scientist** with a focus on:
 - Machine learning, deep learning, and explainable AI
 - Data-driven healthcare innovation and genomics research
 
----
-
 ## 🛠️ Skills & Tools
 
 - **Languages**: R, Python, SQL, MATLAB
 - **Statistical Analysis**: SPSS, MINITAB, STATA
 - **AI/ML**: Deep Learning, NLP, Explainable AI
 - **Web & Tools**: HTML/CSS, GitHub, Docker, LaTeX, Linux
-
----
 
 ## 📚 Highlights
 
@@ -36,14 +30,12 @@ I'm a **Biostatistician** and **Senior Data Scientist** with a focus on:
 
 - **Invited Speaker** at Google Events 2025 (Generative AI in Healthcare)
 
----
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mnoorchenar)
 - ✉️ mnoorchenarboo@gmail.com
 
----
 
 > "Combining biostatistics and AI to advance healthcare through data and discovery."
 
