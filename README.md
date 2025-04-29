@@ -14,22 +14,19 @@ I combine **deep expertise in biostatistics** with **advanced computational tech
 With a strong foundation in **predictive modeling**, **GWAS**, **clinical trial analysis**, and **explainable AI**, I aim to bridge the gap between medical research and intelligent data-driven insights.
 
 
-## 📚 Experience Highlights
+## 🧑‍💼 Professional & Academic Experience
 
-- **Biostatistical Research Scientist** | *Western University*  
-  Developing deep learning models for surgical planning and decision support using real-world data (RWD).
-
-- **Professor** | *Fanshawe College*  
-  Teaching statistical foundations of AI, deep learning, and optimization algorithms.
-
-- **Statistical Geneticist & Biostatistician** | *EMRI*  
-  Led quality control pipelines for genome-wide association studies (GWAS) and built machine learning apps for genomics.
-
-- **Senior Statistical Analyst** | *Moshaveran Research Institute*  
-  Designed experimental studies and applied Bayesian methods for clinical research.
-
-- **Statistical Programmer** | *Royan Stem Cell Technology Institute*  
-  Built statistical programs for rare disease datasets and biomedical analysis.
+- 🎓 Professor at **Fanshawe College** (2024–present) – Teaching AI, deep learning, and statistical methods.
+- 🧠 Biostatistical Research Scientist at **Western University** (2023–present) – Deep learning & real-world data for surgical planning.
+- 👨‍🏫 Teaching Assistant at **Western & Other Universities** (2016–present) – Courses in statistics, software engineering, and AI.
+- 🎤 Invited **Speaker at Google Events** (2025) – Presented on Generative AI in healthcare.
+- 🏆 Recipient of the **Danny Ho Software Engineering Scholarship** ($10,000) – For academic excellence at Western.
+- 🧬 Statistical Geneticist & Biostatistician at **EMRI** (2020–2022) – GWAS, Shiny apps, and genomic machine learning.
+- 📊 Senior Statistical Analyst at **Moshaveran Research Institute** (2014–2018) – Bayesian methods and clinical trial support.
+- 🧾 Statistical Programmer at **Royan Stem Cell Institute** (2013–2014) – Biomedical data analysis and visualization.
+- 📝 Reviewer for the **Journal of Biostatistics and Epidemiology** (2019–2022).
+- 🛠️ Instructor of R, SPSS, and MINITAB **statistical workshops** at top Iranian universities.
+- 🥇 Ranked **Top 5 Nationwide** in Ph.D. and M.Sc. Biostatistics entrance exams in Iran (2013 & 2018).
 
 
 ## 🛠️ Skills
@@ -39,26 +36,6 @@ With a strong foundation in **predictive modeling**, **GWAS**, **clinical trial 
 - **AI & ML**: Deep Learning, Explainable AI, NLP, Generative AI
 - **Bioinformatics**: GWAS, genomic data processing (PLINK, GCTA, BOLT, SAIGE)
 - **Tools**: GitHub, Docker, Linux (Ubuntu), Shiny Apps
-
-
-## 🌟 Expertise Areas
-
-- Clinical Trials Design & Analysis
-- Survival and Longitudinal Data Modeling
-- Statistical Genetics and Genomics
-- AI in Healthcare
-- Real-World Evidence (RWE) Analytics
-- Data Visualization and Web Applications
-
-
-## 📄 Selected Publications
-
-- **Optimizing Surgical Efficiency** — *Surgical Endoscopy (Accepted)*
-- **COVID-19 Mortality Analysis** — *Journal of Biostatistics and Epidemiology (2020)*
-- **Multivariate Association Testing in Sarcopenia** — *Journal of Biostatistics and Epidemiology (2022)*
-- **Metabolomics and ASCVD Risk Prediction** — *Frontiers in Cardiovascular Medicine (2023)*
-
-🔗 [See full publication list on Google Scholar](https://scholar.google.com/citations?user=nn_Toq0AAAAJ&hl=en)
 
 
 ## 🔗 Connect
